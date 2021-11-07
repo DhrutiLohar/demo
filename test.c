@@ -3,3 +3,7 @@ main()
 {
 printf()
 }
+
+void test()
+{
+}
